@@ -192,29 +192,29 @@ button:hover{
     text-transform: inherit;
 }
 
-/* Experienced */
+/* Experience */
 .imgExp {
     width: 200px;
 }
-.imgExperienced {
+.imgExperience {
     text-align: center;
 }
-.contentExperienced {
+.contentExperience {
     width: 100%;
     transform: translateY(-20%);
     text-align: center;
     color: white;
 }
-.contentExperienced h1{
+.contentExperience h1{
     font-size: 70px;
     margin-top: 80px;
 }
-.contentExperienced p{
+.contentExperience p{
     margin: 20px auto;
     font-weight: 100;
     line-height: 25px;
 }
-.contentExperienced button a{
+.contentExperience button a{
     text-decoration: none;
     color: white;
     text-transform: inherit;
